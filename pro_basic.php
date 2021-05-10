@@ -1,7 +1,7 @@
 <?php
 // Your code here!
 
-$age = 9.9;
+$age = 100;
 
 if($age >= 100 ){
     print "ビールください";
